@@ -1,1 +1,2 @@
 # Alarm-clock_CN
+ Alarm Clock project using HTML, CSS, and JavaScript. This project will enable users to set alarms with customizable hours, minutes, and seconds. It will display the current time and generate an alert when the alarm time matches. Additionally, the project will incorporate the use of localStorage to support saving and deleting alarms. To enhance the user experience, the design will be responsive and visually appealing.
